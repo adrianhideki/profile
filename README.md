@@ -38,13 +38,11 @@ stats: https://github.com/anuraghazra/github-readme-stats
 
 <a href="https://www.embarcadero.com/br/products/delphi" target="_blank">
 <img src="https://img.shields.io/badge/delphi-5E5E5E?logo=Delphi&style=for-the-badge"/></a>
-<!--
 <a href="https://git-scm.com" target="_blank">
 <img src="https://img.shields.io/badge/git-5E5E5E?logo=Git&style=for-the-badge"/>
 </a>
 <a href="https://www.markdownguide.org/getting-started/" target="_blank">
 <img src="https://img.shields.io/badge/markdown-5E5E5E?logo=Markdown&style=for-the-badge"/></a>
--->
 </p>
 
 # 📖 Studying
@@ -73,12 +71,13 @@ stats: https://github.com/anuraghazra/github-readme-stats
   <img src="https://img.shields.io/badge/instagram-5E5E5E?logo=instagram&style=for-the-badge"/></a>
 <a href="https://twitter.com/_hidekyun" target="_blank">
   <img src="https://img.shields.io/badge/twitter-5E5E5E?logo=twitter&style=for-the-badge"/></a>
+<!--
 <a href="https://myanimelist.net/animelist/adsan" target="_blank" style="display:none;">
 <img src="https://img.shields.io/badge/my%20anime%20list-5E5E5E?logo=MyAnimeList&style=for-the-badge"/>
-
 <a href="https://steamcommunity.com/id/hidekyun/" target="_blank" style="display:none;">
   <img src="https://img.shields.io/badge/steam-5E5E5E?logo=Steam&style=for-the-badge"/>
 </a>
+-->
 </p>
 
 # ⭐ Badges
