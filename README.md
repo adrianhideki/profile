@@ -14,6 +14,7 @@ stats: https://github.com/anuraghazra/github-readme-stats
   - Database tuning
 - 🔭 I’m currently working on <a href="http://newconsoftware.com.br">Newcon Software</a>
 - 🖤 Animes and Games
+- <a href="https://drive.google.com/drive/folders/1cwomKGPrL9NsJDkOH_u7gNlqxPEsaWGB?usp=sharing" target="_blank">My certificates</a>
 
 # ⚡ Skills
 
