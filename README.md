@@ -4,7 +4,10 @@ icons: https://simpleicons.org
 stats: https://github.com/anuraghazra/github-readme-stats
 -->
 
+
 ## <img src="https://media.giphy.com/media/SSPyzPAmc8IpzW31zm/giphy.gif" width=30 height=30/> About me
+
+<img align="right" src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width=500 style="border-radius: 5px"/>
 
 - My name is Adrian Hideki
 - A database developer
