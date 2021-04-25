@@ -19,11 +19,11 @@ stats: https://github.com/anuraghazra/github-readme-stats
 # ⚡ Skills
 
 <p align="center">
-<a href="www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank">
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank">
   <img src="https://img.shields.io/badge/sql%20server-5E5E5E?logo=Microsoft%20SQL%20Server&style=for-the-badge"/>
 </a>
 
-<a href="azure.microsoft.com/en-us/" target="_blank">
+<a href="https://azure.microsoft.com/en-us/" target="_blank">
 <img src="https://img.shields.io/badge/Azure-5E5E5E?logo=Microsoft%20Azure&style=for-the-badge"/></a>
 
 <a href="https://www.mysql.com" target="_blank">
