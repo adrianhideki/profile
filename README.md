@@ -38,13 +38,13 @@ stats: https://github.com/anuraghazra/github-readme-stats
 
 <a href="https://www.embarcadero.com/br/products/delphi" target="_blank">
 <img src="https://img.shields.io/badge/delphi-5E5E5E?logo=Delphi&style=for-the-badge"/></a>
-
+<!--
 <a href="https://git-scm.com" target="_blank">
-<img src="https://img.shields.io/badge/git-5E5E5E?logo=Git&style=for-the-badge"/></a>
-
+<img src="https://img.shields.io/badge/git-5E5E5E?logo=Git&style=for-the-badge"/>
+</a>
 <a href="https://www.markdownguide.org/getting-started/" target="_blank">
 <img src="https://img.shields.io/badge/markdown-5E5E5E?logo=Markdown&style=for-the-badge"/></a>
-
+-->
 </p>
 
 # 📖 Studying
